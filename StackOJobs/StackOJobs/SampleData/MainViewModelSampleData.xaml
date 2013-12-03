@@ -4,7 +4,17 @@
     xmlns:vm="clr-namespace:StackOJobs.ViewModels">
 
     <vm:MainViewModel.Items>
-        <vm:Job ID="0" Name="ddddd" />
+        <vm:Job ID="0" Name="Developer Support Specialist" CompanyName="Telerik (Waltham, MA)" Description="Something"  />
+        <vm:Job ID="0" Name="Developer Support Specialist" CompanyName="Telerik (Waltham, MA)" Description="Something"  />
+
+
+        <vm:Job ID="0" Name="Developer Support Specialist" CompanyName="Telerik (Waltham, MA)" Description="Something"  />
+        <vm:Job ID="0" Name="Developer Support Specialist" CompanyName="Telerik (Waltham, MA)" Description="Something"  />
+        <vm:Job ID="0" Name="Developer Support Specialist" CompanyName="Telerik (Waltham, MA)" Description="Something"  />
+        <vm:Job ID="0" Name="Developer Support Specialist" CompanyName="Telerik (Waltham, MA)" Description="Something"  />
+        <vm:Job ID="0" Name="Developer Support Specialist" CompanyName="Telerik (Waltham, MA)" Description="Something"  />
+        <vm:Job ID="0" Name="Developer Support Specialist" CompanyName="Telerik (Waltham, MA)" Description="Something"  />
+        <vm:Job ID="0" Name="Developer Support Specialist" CompanyName="Telerik (Waltham, MA)" Description="Something"  />
     </vm:MainViewModel.Items>
 
 </vm:MainViewModel>
